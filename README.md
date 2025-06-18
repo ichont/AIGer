@@ -7,11 +7,8 @@ A GNN-Based Modeling Approach for AIGs
 实验环境必须要求：
 
 `torch==2.2.1+cu118 `
-
 `torch-sparse==0.6.18`
-
 `torch_scatter==2.1.2`
-
 `numpy==1.26.4`
 
 实验设备：
@@ -19,7 +16,7 @@ A GNN-Based Modeling Approach for AIGs
 Ubuntu 22.04.5 LTS
 
 实验数据：
-
+https://huggingface.co/datasets/Ichont/AIGer_Dataset
 
 
 ## 运行AIGer
