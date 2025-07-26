@@ -39,23 +39,24 @@ best-performing models.
 
 ## Environmental Configuration
 
-实验环境必须要求：
+Experimental Environment Installation Package Version Requirements:
 
 `torch==2.2.1+cu118 `
 `torch-sparse==0.6.18`
 `torch_scatter==2.1.2`
 `numpy==1.26.4`
 
-实验设备：
+Experimental Equipment：
 
 Ubuntu 22.04.5 LTS
+Nvidi A6000
 
-实验数据：
+Experimental Data：
 https://huggingface.co/datasets/Ichont/AIGer_Dataset
 
 
-## 运行AIGer
+## Run AIGer
 
-需配置bash环境:
+Proper configuration of the bash environment is required.
 
-bash train.sh
+`bash train.sh`
