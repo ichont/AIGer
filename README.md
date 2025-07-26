@@ -39,7 +39,7 @@ best-performing models.
 
 ## Environmental Configuration
 
-Experimental Environment Installation Package Version Requirements:
+**Experimental Environment Installation Package Version Requirements:**
 
 `torch==2.2.1+cu118 `
 
@@ -49,14 +49,23 @@ Experimental Environment Installation Package Version Requirements:
 
 `numpy==1.26.4`
 
-Experimental Equipment：
+**Experimental Equipment：**
 
 Ubuntu 22.04.5 LTS
 
 Nvidia A6000
 
-Experimental Data：
+## Experimental Data：
 https://huggingface.co/datasets/Ichont/AIGer_Dataset
+
+**Explanation:**
+
+- `--task 'prob'`: Select signal probability prediction(SPP) task.
+- `--model 'AIGer'`: Use AIGer model.
+- `--batch_size 256`: Set the batch size required for training..
+- `--split_file 0.05-0.05-0.9`: Indicates the data split proportions for training, validation, and testing.
+- `--layer_num 9`: Set the number of layers of the AIGer network to 9..
+
 
 
 ## Run AIGer
