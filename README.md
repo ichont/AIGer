@@ -42,13 +42,17 @@ best-performing models.
 Experimental Environment Installation Package Version Requirements:
 
 `torch==2.2.1+cu118 `
+
 `torch-sparse==0.6.18`
+
 `torch_scatter==2.1.2`
+
 `numpy==1.26.4`
 
 Experimental Equipment：
 
 Ubuntu 22.04.5 LTS
+
 Nvidia A6000
 
 Experimental Data：
