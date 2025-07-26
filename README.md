@@ -2,7 +2,7 @@
 
 A GNN-Based Modeling Approach for AIGs
 
-##Abstract
+## Abstract
 The automation of logic circuit design enhances chip
 performance, energy efficiency, and reliability, and is widely
 applied in the field of Electronic Design Automation (EDA). And-
