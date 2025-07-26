@@ -49,7 +49,7 @@ Experimental Environment Installation Package Version Requirements:
 Experimental Equipment：
 
 Ubuntu 22.04.5 LTS
-Nvidi A6000
+Nvidia A6000
 
 Experimental Data：
 https://huggingface.co/datasets/Ichont/AIGer_Dataset
