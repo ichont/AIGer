@@ -55,7 +55,10 @@ Ubuntu 22.04.5 LTS
 
 Nvidia A6000
 
-## Experimental Data：
+## Experimental Data and parameters
+
+**This is the data required for the experiment:**
+
 https://huggingface.co/datasets/Ichont/AIGer_Dataset
 
 **Explanation:**
