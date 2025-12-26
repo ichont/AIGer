@@ -78,7 +78,7 @@ Proper configuration of the bash environment is required.
 `bash train.sh`
 
 ## Cite
-'''
+```
 @ARTICLE{11300286,
   author={Sun, Weihao and Guo, Shikai and Wang, Siwen and Ma, Qian and Li, Hui and Wang, Ning and Weng, Yongpeng},
   journal={IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems}, 
@@ -89,4 +89,4 @@ Proper configuration of the bash environment is required.
   pages={1-1},
   keywords={Integrated circuit modeling;Logic;Logic gates;Computational modeling;Representation learning;Predictive models;Design automation;Logic circuits;Optimization;Message passing;Electronic Design Automation;And-Inverter Graphs;Logic Circuit Design},
   doi={10.1109/TCAD.2025.3644279}}
-'''
+```
