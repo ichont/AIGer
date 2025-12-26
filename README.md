@@ -1,6 +1,6 @@
 # AIGer
 
-A GNN-Based Modeling Approach for AIGs
+[AIGer](https://ieeexplore.ieee.org/document/11300286) is a GNN-Based Modeling Approach for AIGs.
 
 ## Abstract
 The automation of logic circuit design enhances chip
