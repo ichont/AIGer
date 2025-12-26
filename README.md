@@ -31,7 +31,7 @@ ability to jointly model functional and structural characteristics
 and improves its message passing capability, thereby strengthen-
 ing its expressive power for AIGs. Experimental results indicate
 that AIGer outperforms the current best models in the Signal
-Probability Prediction (SSP) task, improving MAE and MSE by
+Probability Prediction (SPP) task, improving MAE and MSE by
 18.95% and 44.44%, respectively. In the Truth Table Distance
 Prediction (TTDP) task, AIGer achieves improvements of 33.57%
 and 14.79% in MAE and MSE, respectively, compared to the
